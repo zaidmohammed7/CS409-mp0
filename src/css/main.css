@@ -1,1 +1,33 @@
 /* Your CSS here. */
+.card {
+    height: 500px;
+    width: 40%;
+    background-color: gray;
+    margin: 30px auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.card img {
+    height: 150px;
+    width: 150px;
+}
+
+.name {
+    color: white;
+}
+
+.email {
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.github {
+    font-weight: bold;
+}
+
+.biography {
+    color: white;
+    text-align: left;
+}
